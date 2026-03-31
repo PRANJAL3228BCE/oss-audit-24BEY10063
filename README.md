@@ -2,7 +2,7 @@
 
 ## Student Details
 
-* Name: Prathamesh kumar
+* Name: Pranjal Yadav
 * Registration No.: 24MIP10034
 
 ## Chosen Software
